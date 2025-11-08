@@ -1,0 +1,26 @@
+{
+  "feed_overlap":true,
+  "force_stream_order":true,
+  "annotations_per_task":null,
+  "show_flag":true,
+  "allow_newline_highlight":true,
+  "custom_theme":{
+    "cardMaxWidth":"90%",
+    "cardTextAlign": "left",
+    "labels" : {
+        "FIRST_NAME": "#ffb3b3",
+        "MIDDLE_NAME": "#ffd9b3",
+        "LAST_NAME": "#ffe6b3",
+        "LINKEDIN": "#d6f5d6",
+        "EMAIL": "#b3e0ff",
+        "PHONE": "#c2c2f0",
+        "CITY": "#ffccf2",
+        "STATE": "#e6b3cc",
+        "1ST_WORK_YEAR": "#cccccc",
+        "1ST_STUDY_YEAR": "#b3d9ff",
+        "OTHER": "#f2f2f2"
+      }
+  },
+  "instructions" : "annotation-guidelines.html",
+  "total_examples_target" : 10
+}
