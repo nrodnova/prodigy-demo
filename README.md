@@ -1,6 +1,6 @@
 # Prodigy Demo
 
-## Set up
+## Set up (In Codespaces)
 
 Get Prodigy license # and save it in a secret `PRODIGY_LICENSE`
 
@@ -25,4 +25,20 @@ Database Name    SQLite
 Database Id      sqlite                        
 Total Datasets   0                             
 Total Sessions   0                          
+```
+
+## Set up (local)
+
+To install prodigy, run:
+
+```
+export PRODIGY_LICENSE="XXXXXXX" # enter your license
+
+# Set up and activate virtual environment of your choice
+# pyenv virtualenv prodigy-demo
+# pyenv activate prodigy-demo
+
+# Install Prodigy and necessary packages
+pip install 'prodigy' -f https://${PRODIGY_LICENSE}@download.prodi.gy
+pip install -r requirements.txt 
 ```

@@ -1,0 +1,878 @@
+resume_id,full_name,resume_text
+1,Arjun Reddy,"4
+Oct
+Arjun Reddy
+9185551234 | arjun.reddy@themailpad.com | Irving, Texas
+Master's in Management Information Systems | Texas A&M University-Commerce, TX
+Bachelor in Computer Science | VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India"
+2,"LUCAS M
+BERNARD-
+DUPONT","LUCAS M
+BERNARD-
+DUPONT
+
+LUCASBERNARD@PROTONMAIL.COM
+
+(949) 423-8672
+
+SKILLS
+
+Words per minute typing: 60+
+Medical terminology
+Communication and leadership skills
+
+EXPERIENCE
+MEDICAL SCRIBE @ OROVILLE HOSPITAL
+Sept 2021 - Present
+Extended the ability of the provider to care for patients by completing
+billing, medical notes, creating medical orders and answering patient
+questions. I am leaving this job because I am not being given enough
+hours.
+INTERN AT UC DAVIS MEDICAL CENTER
+Jan 1st 2020 to April 2020
+Assisted nursing staff in the accelerated access unit by dispatching them
+to patients' rooms. Maintained in-room supplies of consumables such as
+gloves and masks. The program was discontinued due to COVID-19.
+EDUCATION
+GENETICS AND GENOMICS (NO DEGREE EARNED)
+UC Irvine
+Studied advanced scientific practices in the field of genetics including
+laboratory design and critical analysis of experimental data. Performed
+scientific inquiries into genomic data using data analysis. I am currently
+taking 2 gap years to study medicine and study for my MCAT before
+returning to UC Davis to complete my degree.
+VOLUNTEER EXPERIENCE OR LEADERSHIP
+-
+Led a scientific study for 4 years that was published.
+-
+Elected president of bioethics club at UC Davis for 2 years.
+-
+Current Red Cross volunteer.
+-
+Volunteer mentor for 5 years at UC Davis GSP program for foster
+youth seeking higher education.
+-
+Volunteer mentor for UC Davis BASC Program 2 years
+"
+3,RYAN KALINOWSKI,"RYAN KALINOWSKI, M.S.
+Data Scientist | Machine Learning | Healthcare Analytics
+
+(585) 305-7824             rkalinowski@cornell.edu
+LinkedIn
+Seattle, WA
+
+EXPERIENCE
+
+Data Scientist II
+
+2/2023 - Present
+L.A. Care Health Plan
+*
+Led a project reducing a year-long data delay and safeguarding $15M annually in provider payments using deep learning, statistical
+control charts, and randomized control trials for root cause analysis and resolution of insurance claim payments and denials
+*
+Significantly mitigated the risk of critical regulatory program failure and business line disruption by leveraging state-of-the-art machine
+learning to identify and intervene in ~200 multi-drug failing members with PharmDs
+*
+Developed Tableau dashboards and a Python repository for outlier analysis across business domains including claims processing
+*
+Identified social determinants of health in insurance grievances by fine-tuning large language model (LLM) on sensitive, regulated data
+
+Machine Learning Research Assistant
+
+9/2021 - 12/2022
+Tong Lab, Georgia Southern University
+*
+Designed and implemented a Google Cloud Platform (GCP) environment for the lab, supporting high-compute PyTorch Lightning
+models that led to two major publications
+*
+Provided graduate students with in-depth instruction on algorithmic proof techniques, equipping them with the skills to excel in a highly
+rigorous course
+
+Epic Consultant
+
+1/2021 - 8/2021
+University of Miami
+
+Epic Healthcare Analyst II
+
+9/2018 - 9/2020
+Providence Healthcare
+*
+Led the roll-out of COVID-19 lab testing across the West Coast as part of a three-person team
+
+Technical Engineer
+
+5/2017 - 6/2018
+Esker Inc.
+
+Technical Engineer
+
+8/2015 - 5/2017
+Epic Systems
+*
+Led technical services across multiple initiatives including the award-winning implementation of a new case management module
+
+EDUCATION
+
+M.S. in Computer Science, summa cum laude
+
+9/2021 - 12/2022
+Georgia Southern University
+
+Statesboro, GA
+*
+GPA: 4.0 | Focus Area: Machine Learning | PI: Yifan Zhou, PhD
+*
+Received full scholarship with graduate stipend, won 1st and 2nd place in 2022 Student Research Symposium, and published two papers
+
+B.S. in Biology, magna cum laude
+
+8/2011 - 5/2015
+Rochester Institute of Technology
+
+Rochester, NY
+*
+GPA: 3.8 | Focus Area: Computational Neuroscience
+
+PUBLICATIONS
+
+*
+Enhanced Transformer Architectures for Multi-Region Air Quality Estimation Using Remote Sensor Data
+*
+Spatiotemporal Air Pollution Forecasting via Deep Neural Embeddings and Attention Mechanisms
+
+SKILLS
+
+Python, Java, SQL, PyTorch, Apache Spark, Machine Learning, Deep Learning, Git, Object-Oriented Programming,
+Transformers, Large Language Models, MLOps, Bayesian Statistics, Pandas, NumPy, Google Cloud Platform (GCP), A/B
+Testing, spaCy, NLTK, LangChain, XGBoost, scikit-learn, DataBricks, Tableau, REST API"
+4,"Morgan Ellis, Ph.D.","Arvada, CO
+LinkedIn
+Morgan Ellis, Ph.D.
+morgan.ellis@gmail.com
+(415) 716-4823
+WORK EXPERIENCE
+Senior Data Scientist
+Lumen Technologies
+Remote
+Jun 2021 - Present
+- Summary -
+* Responsible for end-to-end AI / machine learning project lifecycles - including project scoping, sourcing and
+cleaning data, training and tuning models, and publishing automated reports.
+* Credited with numerous actionable insights leading to millions in financial savings and revenue increases.
+* Strong communication skills proven by frequent presentations to VPs and high-quality reports.
+- Project Highlights -
+Customer Success Targeting Pipeline | Tech lead | Jun 2024 - Present
+Recommends sales motions for customer success representatives near the ends of customer and product lifecycles.
+* Achieved 10% conversion rate on recommended sales opportunities, directly linked to millions in revenue.
+* Synthesized financial data, account info, product specs, health score, and churn predictions using SQL,
+PySpark, Azure Databricks, and Azure Data Factory.
+* Posted automated monthly account targeting list for numerous downstream teams via Salesforce / Gainsight.
+Revenue Churn Prediction Model | Senior advisor and contributor | Aug 2024 - Present
+XGBoost classification model trained to predict decreases in revenue at customer level.
+* Enhanced model performance through balanced dataset creation, hyperparameter optimization, and evalu-
+ation metric selection using scikit-learn, MLflow, Optuna, SHAP, and AutoML.
+* Migrated storage and compute from on-prem resources to Azure.
+Capital Actuals API | Tech lead | Apr 2023 - Sep 2024
+Web interface allowing users to query capital actuals data for network buildout projects.
+* Published a self-service dataset to eliminate costly data pull requests using Docker and Kedro.
+Utility Usage Prediction | Tech lead | Jun 2021 - Oct 2022
+XGBoost regression model and reporting framework identifying outliers in electricity usage at building level.
+* Identified tens of thousands in unnecessary monthly utility spend.
+* Deduplicated and enhanced existing data using REST API and custom inventory classification.
+SKILLS AND TECHNOLOGIES
+Data
+Querying, Manipulation | Oracle SQL, MSSQL, PySpark, Hue, sqlalchemy, pandas, R
+Storage | Oracle Database, SQL Server, Anaplan, Hadoop Data Lake, DBeaver
+Visualization | PowerBI, seaborn, matplotlib
+ML / AI
+Models | Regression and classification (XGBoost, LightGBM), time series, clustering
+Libraries | scikit-learn, pyspark.ml, Optuna, Prophet, SHAP, Azure AutoML
+Deployment, MLOps | Databricks Workflows, Airflow, Kedro, MLflow, Docker
+Tools
+Coding, DevOps | Git, Github, VSCode, JupyterLab, Jenkins, Linux, Postman
+Cloud | Azure Databricks, Azure Data Factory, Azure SQL, Azure Key Vault, BigQuery
+EDUCATION
+Boulder, CO
+Colorado State University
+Aug 2015 - May 2021
+* Ph.D. | Mathematics
+* Dissertation Title | Investigations into Stationary Fluid Dynamics on Non-Euclidean Geometries
+* Research Areas | Partial differential equations, Riemannian manifolds, Euler and Navier-Stokes equations
+Ellensburg, WA
+Western Washington University
+Sep 2011 - Jun 2015
+* B.A.s | Mathematics and Secondary Mathematics Education - Summa Cum Laude"
+5,Rohan Desai,"SUMMARY
+Rohan Desai
+Data Scientist
+Medford, MA | (716) 384-7623 | rohan.desai@myjobsmails.com | LinkedIn
+
+*
+Experienced Data Scientist with 5 Years, specializing in machine learning, deep learning, and AI-driven risk assessment to
+optimize credit risk predictions and fraud detection through Hybrid AI models (LSTMs, Transformers, XGBoost, and Random
+Forests) for improved decision-making.
+*
+Proficient in Python, SQL, Graph Networks and AWS, using advanced algorithms to extract insights from complex datasets,
+improving business processes, and delivering actionable insights to drive customer retention and operational efficiency.
+*
+Deep knowledge of Databricks and Spark to scale feature engineering for millions of customers, and CI/CD pipelines using
+Bitbucket, Jenkins, JIRA, and CA Automation (Autosys), improving customer experience and business outcomes.
+*
+Expertise in building and implementing predictive models and using data visualization tools like Tableau and Power BI, to create
+real-time insights and optimize key business processes, resulting in more accurate forecasts and better decision-making.
+EXPERIENCE
+PNC, USA | Data Scientist
+Jan 2024 - Current
+*
+Developed Hybrid AI models by combining Deep Learning (LSTMs, Transformers) and Traditional ML (XGBoost, Random
+Forest) to optimize credit risk predictions and fraud detection, increasing detection rates by 18%.
+*
+Developed fraud detection models using graph-based anomaly detection, reducing fraudulent transactions by 20% by identifying
+unusual entity relationships in transaction networks.
+*
+Integrated alternative data sources (transaction history, behavioral analytics, web interactions) into risk assessment models , leveraging
+Databricks and Spark to scale feature engineering for millions of customers.
+*
+Deployed and monitored ML models in AWS (SageMaker, Lambda), ensuring low-latency fraud detection and credit risk assessments
+at scale.
+*
+Designed and published visually rich, interactive Tableau dashboards to provide actionable insights into key financial metrics, aiding
+executive decision-making for investment strategies.
+TATA CONSULTANCY SERVICES, India | Data Engineer
+June 2019 - May 2022
+*
+Led the development of a robust ETL infrastructure using IBM InfoSphere DataStage, integrating data from corporate and investment
+banking divisions of two major U.S.-based banks, resulting in a 40% reduction in data processing time and improving data accessibility for
+real-time analytics.
+*
+Optimized complex customer data extraction and analysis using Oracle SQL and Machine Learning (XGBoost, LightGBM),
+identifying key financial performance metrics that increased customer engagement by 30% through targeted financial strategies.
+*
+Enhanced forecasting accuracy of financial risk models by 35% using Keras and TensorFlow, developing predictive models that
+optimized risk management strategies, empowering the bank to make 20% faster data-driven financial decisions while minimizing
+forecasting errors.
+*
+Automated CI/CD pipelines using Bitbucket, Jenkins, JIRA, and CA Automation (Autosys), reducing deployment failures by 40%,
+accelerating ETL deployment cycles by 30%, and ensuring seamless job scheduling and version control for ETL workflows.
+*
+Implemented end-to-end testing automation for ETL workflows using TOSCA and Jenkins, leading to a 45% reduction in production
+bugs and ensuring a 99.9% uptime of critical data pipelines.
+Informative Web Solution, India | Data Scientist Intern
+Feb 2018- April 2019
+*
+Assisted in developing machine learning models using Python and scikit-learn to predict customer behavior and improve data accuracy.
+*
+Supported data cleaning tasks using SQL and Excel, helping the team streamline data workflows and improve reporting efficiency.
+*
+Collaborated with senior data scientists to analyze financial data, providing insights that helped optimize customer segmentation.
+TECHNICAL SKILS
+Language: Python, R, SQL, SAS, Java, Unix, C, HTML, CSS, Bootstrap 4
+Statistical Methods/ Visualization Tools: Hypothetical Testing, ANOVA, Time Series, Tableau, Power BI, Microsoft Excel
+Machine Learning: Regression analysis, Bayesian Method, Decision Tree, Random Forests, Support Vector Machine, Neural Network,
+Sentiment Analysis, K-Means Clustering, KNN, Classification, SVM, Naive Bayes, Natural Language Processing (NLP), LLM, CNN,
+Packages: NumPy, Pandas, Matplotlib, SciPy, ggplot2, Scikit-Learn, PyTorch, TensorFlow, Keras, Spark
+Cloud Technologies / Database / IDEs: AWS, GCP, Azure, MySQL, SQL Server, Oracle, MongoDB
+Methodologies/Software/Other Skills: Jira, Data Cleaning, Data Wrangling, Critical Thinking, Communication Skills, Presentati on Skills,
+Problem-solving, Decision-Making, EDA, Communication Skills, Databricks, Data Visualization, Predictive Analytics, Pattern Recognition,
+JMP, Data Integrity, Data Science, Statistics, Statistical Analysis, Data Analytics, Data Modeling, Big Query, Snowflake, SDLC, Agile, Waterfall
+EDUCATION
+Northeastern University, Boston, MA, USA
+Master of Science, Engineering Science (Robotics)
+University of Pune, India
+Bachelor of Engineering, Computer Engineering
+CERTIFICATION
+Machine Learning by Andrew NG - Coursera"
+6,Evan Marlow,"Evan Marlow
+Senior Data Scientist
+evan.marlow.lol@gmail.com
+
+4086004829
+
+www.linkedin.com/in/evan-lol
+
+San Francisco, CA
+
+Summary
+Accomplished Data Scientist with a strong track record of developing AI-driven solutions in biotechnology,
+healthcare, and e-commerce. Expertise in designing and deploying advanced machine learning models, including
+NLP, deep learning, and predictive analytics, utilizing PyTorch, Scikit-learn, and AWS infrastructure. Skilled in
+working with large language models (LLMs) such as GPT and BERT, retrieval-augmented generation (RAG), and
+fine-tuning AI models for enhanced performance. Proven ability to optimize ML pipelines, improve model
+accuracy, and automate data workflows to drive efficiency. Adept at collaborating cross-functionally with
+engineers, scientists, and product teams to deliver AI-powered insights that enhance user engagement, content
+moderation, and campaign performance. Passionate about leveraging cutting-edge AI technologies to enable
+data-driven decision-making and strategic growth.
+Skills
+Programming Languages & Frameworks: Python | R | TensorFlow | PyTorch | Pandas | PySpark | SQL
+Data Science & Machine Learning: Generative AI | Deep Learning | Natural Language Processing | Random Forest |
+Support Vector Machines | Autoencoders | Predictive Modeling
+Natural Language Processing: Transformer | BERT | GPT-based models | RAG | SpaCy | NLTK | OpenAI API
+Data Analysis & Visualization: Scikit-learn | Langchain | Matplotlib | Clustering | Latent Dirichlet Allocation (LDA) |
+Feature Extraction with OpenCV
+Tools & Techniques: Retrieval-Augmented Generation | Regression Analysis | VAE Evaluation | Linear Modeling |
+Techniques Selective Search R-CNN | CNC-VAE | Text and Image Data Integration | Pipeline Development &
+Optimization
+Cloud & DevOps: AWS | Azure Databricks | Docker | OpenShift | Streamlit
+Professional Experience
+Invitae
+Senior Data Scientist
+09/2019 - Present  | San Francisco, CA
+*NLP Solutions Implementation: Spearheaded the design and development of natural language processing
+(NLP) solutions for Invitae's Virtual Genetic Information Assistant (GIA), enhancing user interaction and
+information retrieval through BERT, GPT-based models, and Retrieval-Augmented Generation (RAG)
+techniques.
+*Hereditary Disease Risk Prediction Model: Engineered a predictive model and personalized recommendation
+system utilizing XGBoost, BioBERT, and GPT-based architectures, specifically tailored for assessing
+hereditary disease risks.
+*Accuracy Enhancement: Achieved a 17% improvement in predictive accuracy over traditional rule-based
+methods by leveraging PyTorch, Scikit-learn, and Transformer-based models to rigorously analyze over 3
+million patient medical data points.
+*Variant Reclassification: Actively contributed to addressing Variants of Uncertain Significance (VUS) by
+reclassifying over 15,000 uncertain genetic variants. This was accomplished through LLM-powered
+functional genomics and allele frequency analysis, integrating deep learning and transformer-based models.
+*Advanced Variant Classification Model: Developed a sophisticated variant classification model utilizing
+LightGBM and deep learning-based functional modeling frameworks (PyTorch, CNNs, and Transformers) to
+predict the protein structure impacts of genetic variants. Integrated LLMs and RAG methodologies to
+enhance data-driven insights for variant classification.
+Johnson and Johnson
+Machine Learning Engineer
+01/2016 - 05/2019  | Menlo Park, CA
+*Development of AI Models for Healthcare Performance Analysis: Designed and implemented deep learning
+models using PyTorch and TensorFlow to analyze and predict healthcare performance metrics. Optimized
+CNN-based model architectures, improving predictive accuracy by 11%, with a focus on key biomedical
+factors derived from extensive clinical data.
+*Large-Scale Data Pipeline Management on AWS: Developed and maintained scalable, distributed data
+pipelines leveraging AWS infrastructure (ECS, Aurora, Lambda, Batch), all orchestrated via AWS CDK.
+Integrated PySpark for efficient handling of massive datasets, facilitating streamlined feature extraction and
+model inference.
+*Advanced Data Analysis and Research: Applied state-of-the-art computer vision, statistical analysis, and ML
+techniques to extract critical insights from medical datasets. Leveraged CNNs, OpenCV, Pandas, NumPy,
+Scikit-learn, and Matplotlib, enhancing model training efficiency and prediction consistency.
+*Automation of Data Processing and Feature Engineering: Engineered automated data pipelines for ingestion,
+preprocessing, and storage using AWS Lambda, Batch, and PySpark, reducing data processing latency by
+20%. Designed real-time analytics workflows supporting healthcare performance tracking.
+*Cross-Functional Collaboration for AI Integration: Partnered with data scientists, healthcare professionals,
+and software engineers to integrate ML-driven insights into J&J's healthcare platforms. This collaboration
+resulted in enhanced real-time tracking tools, improving patient and provider decision-making.
+Amazon
+Data Scientist
+11/2013 - 12/2015  | Seattle, WA
+*Customer Segmentation Optimization: Developed clustering models and behavioral analytics pipelines using
+Python, Scikit-learn, and SQL to segment Amazon customers based on engagement and purchasing behavior.
+These insights refined marketing strategies, increasing targeted campaign effectiveness by 15%.
+*AI-Driven Content Moderation: Designed and implemented NLP-based models to automate spam detection,
+policy violation identification, and abusive content moderation. This innovation reduced moderation
+response times by 20%, significantly easing the manual workload for moderation teams.
+*Data-Driven Growth Strategies: Conducted A/B testing and statistical analysis to evaluate the impact of
+platform changes on customer behavior. Provided actionable insights that led to a 10% increase in customer
+retention, supporting key product and growth initiatives.
+Education
+San Francisco State University
+Master of Science
+09/2007 - 09/2013"
+7,Amina Farooq,"Houston, TX
+afarooq.amina@gmail.com
+afarooq-amina-426568104/
+Born July 29, 1988
+WORK EXPERIENCE
+May 2024 - present
+Staff Data Scientist
+Udemy
+* Counterfactual/impact analysis
+- simulation of model output (demand and revenue) under different scenarios -
+conducted inference using bootstrapping.
+* pricing model improvements
+- used techniques like Poisson regression and Zero-inflated Poisson to account
+for sparse data in demand prediction.
+- A/B testing and evaluation of time-based tests.
+* data pipeline debugging
+* identifying and fixing data quality issues in the model pipeline.
+July 2022 - April 2024
+Senior Data Scientist, Inference
+Udemy
+* revamped price optimization framework and productionalized model codes.
+- used techniques from panel data econometrics and ML (XGboost) to estimate
+demand and optimize prices
+- deployed model into production.
+- monitored performance
+* debugging and modifying batch pipelines
+* model performance and query optimization.
+* causal inference: prototyped codes for implementation of synthetic control, synthetic
+diff in diff and diff in diff to scale and standardize use of these methods within the
+larger data science pod.
+* experiment design and evaluation
+Jan 2021 - June 2022
+Lead Economist
+Thumbtack
+* causal inference with observational data - panel data econometrics
+* NLP (sentiment analysis) to understand and categorize the textual data in customer
+reviews.
+* customer segmentation using techniques like Latent Class Analysis and Decision
+Trees / nonparametric
+* Predictive modeling using Logistic regression and XGBoost to predict churn.
+May 2020 - Dec 2020
+Vice President, Economic and Financial Forecasting
+Citigroup
+* Time series econometrics: Vector Error Correction Models for sneario analysis under
+stress testing.
+EDUCATION
+2014 - 2020
+PhD Economics
+Rice Institute, Houston, TX
+* Job Market Paper: ""Policy Incentives and Postsecondary Attainment: An Economic Analysis""
+2012 - 2013
+MSc Economic Theory & Econometrics
+Lyon School of Economics, France
+2011 - 2012
+M.Sc. Macroeconomic Policy & Financial Markets
+Madrid Graduate School of Economics, Spain
+2007 - 2009
+B.A. in Economics & Political Science, minor Mathematics, cum laude
+University of Illinois, Urbana-Champaign, IL
+CERTIFICATIONS
+December 2024
+Python Essentials for MLOps
+Duke University (coursera)
+credential ID 8ECAXX6BPSEX
+February 2021
+Postgraduate certification, Artificial Intelligence Machine Learning
+(AIML)
+Texas McCombs School of Business
+TECHNICAL STACK
+Programming
+Python, R, Fortran, Matlab, Julia, SQL, Latex.
+Others
+* AWS, S3, Redshift, Airflow, Databricks, Hive, Github
+* Optimization
+* Econometric and statistical modeling
+Research Papers
+Policy Incentives and Postsecondary Attainment: An Economic Analysis - Job Market Paper
+In 2015, the Texas Education Agency (TEA) in collaboration with the Texas Higher Edu-
+cation Coordinating Board (THECB) undertook an ambitious 60x30 TX plan as a part
+of its implementation of House Bill 22, introduced by the 85th Texas House of Repres-
+entatives to enhance public school accountability. The 60x30 TX is a higher education
+plan that focuses on attaining a postsecondary graduation rate of 60% amongst the
+25-34 age demographic in Texas by the year 2030. In this paper, I estimate the cost
+per high school graduate of attaining this target. I also compare the per student cost
+of this policy objective with that of two other counterfactual policies; the first being one
+in which community colleges are made tuition-free for all high school graduates and
+the second being one in which public four-year college tuition is subsidized annually by
+$2,000 only for those who have completed an AA tuition free under the former policy.
+I find that a policy in which community colleges are made tuition free will increase the
+postsecondary graduation rate by age 29 to 26.6%, relative to a baseline of 22.6%, and
+will cost $2,114 per student. I find that a $2,000 public four-year college subsidy for
+those who have first completed an AA tuition free will boost the postsecondary gradu-
+ation rate to 29.4% and increase the per student cost to $10,594. Finally, I find that a
+conditional cash transfer of $5,320 and $3,640 for two-year and four-year college enroll-
+ment, respectively, attains the targeted postsecondary graduation rate of 60% by age
+29 and costs $16,569 per student with an estimated total cost of $2.3 billion. This is far
+in excess of the THECB's FY2018 operating budget of $807 million.
+Student Debt and Housing Market Outcomes - Working Paper with Naila Rahman,
+Rice Institute
+The rapidly increasing levels of educational debt incurred by American students raises
+concerns over the effects that the debt could have on their ability to achieve their long-
+term goals, including homeownership. While amount of student loan debt held by house-
+holds has increased over the last few decades, homeownership rates among young
+adults have declined. Additionally, if borrowers are taking out more loans to attain higher
+education, then higher future earnings could potentially mitigate the effect of student
+loan payments on home purchase. It is important to determine if the negative effect
+of student debt on housing demand is exceeded by the positive effect that comes from
+higher future earnings. The purpose of this paper is to examine the relationship between
+student loan debt and housing demand.
+Analyzing Unemployment Dynamics in the US Using a Structural VAR Approach with Sign Constraints - Lyon School of Economics, Spring 2013
+This paper establishes dynamic features of the US labor market (1989-2012) within a
+two sector construction, non-construction framework using structural VAR with sign re-
+strictions. I show that a heightened unemployment rate in the construction sector was
+an important driver of the unemployment dynamics during the Great Recession. This
+can be explained by the cyclical sensitivity of this sector, with little reliance on invent-
+ory inputs, and low separation rates of workers in the non-construction sector, so that
+displaced construction workers could not be easily reallocated.
+A Cross-National Flow Analysis of Unemployment in the UK, US, France and Spain - Madrid School of Eco-
+nomics, Spring 2012
+This paper examines the unemployment dynamics in the UK, US, France and Spain in
+order to gauge the relative significance of unemployment inflows and outflows in pro-
+ducing aggregate unemployment movements. I find that while unemployment inflows
+play a dominant role in driving unemployment dynamics in the UK, France and the US,
+both inflows and outflows are equally important for unemployment movements in Spain.
+These results can be explained by institutional heterogeneities and interaction between
+negative shocks and labor market rigidities across these countries.
+Awards
+2019
+John Kelly Award, Graduate Student Instructor
+2018, 2019
+SSRI Travel Grants
+2016 - 2017
+Fellowship, Houston Education Research Consortium
+2016
+Robin Sickles Award for Best Performance in Econometrics Qualifying Exam
+2012 - 2013
+Jean Jacques Laffont scholarship (full ride), Lyon School of Economics
+2011 - 2012
+La Caixa scholarship (full ride), Madrid School of Economics
+Other Activities
+Research Report for Houston Endowment and the Houston Independent
+School District
+* Houston Longitudinal Study on the Transition to College and Work (HLS). Part III: Labor
+Market Analyses in Texas and Houston
+* Becker, L., Farooq, A., Serrano, M.J., Kim, J.Y. 2019.
+* This labor market report was produced in collaboration with the Houston Education
+Research Consortium as part of a larger project for the Houston Endowment and the
+Houston ISD.
+* The analysis included producing forecasts of the labor market composition and es-
+timation of demand and supply of workers with postsecondary credentials and STEM
+skills for Texas and Houston.
+Conference Presentations
+* Southern Economics Association, October 2018.
+* Society of Labor Economists (SOLE), May 2019.
+* Western Economics Association, June 2019.
+Research Assistant to Prof. Pradeep R. Menon, August 2017- April 2018.
+ADDITIONAL INFORMATION
+Immigration Status
+U.S. Permanent Resident"
+8,Ravi Sai Ajay Kumar Mandapati,"Data Scientist
+Name : Ravi Sai Ajay Kumar Mandapati
+Current locations: Dallas,Texas, Zip Code : 75252
+Email: ravi.ajaymandapati@gmail.com | Phone: +19452334678 | URL : https://www.linkedin.com/in/ajay-mandapati/
+
+Professional Summary :
+Experienced Data Scientist with overall 6 years of extensive expertise in delivering end-to-end solutions in data science,
+machine learning, and generative AI across multiple industries. Proficient in developing and deploying complex
+predictive models, implementing advanced natural language processing techniques, and leveraging generative AI for
+innovative solutions. Adept at handling the full data science lifecycle, from data acquisition and preprocessing to
+deploying scalable, cloud-based AI models using cutting-edge tools like Python, TensorFlow, PyTorch, AWS, and Azure.
+Possesses strong analytical, technical, and problem-solving skills, ensuring impactful results and alignment with
+business goals.
+
+Technical Skills :
+Machine Learning: Regression (Linear, Logistic, Ridge, Lasso), Classification (SVM, Naive Bayes, Decision Trees),
+Clustering (K-Means, DBSCAN), Dimensionality Reduction (PCA, SVD), Ensemble Learning, Recommender Systems,
+Predictive Modeling
+Deep Learning: TensorFlow, PyTorch, Keras, CNNs, RNNs (LSTM), GANs, Autoencoders, Sequence-to-Sequence
+Models
+Generative AI: GPT, BERT, Claude, Azure OpenAI, Amazon Bedrock, Mistral AI, LLaMA
+NLP: Sentiment Analysis, Text Classification, Chatbots, Transformers, Topic Modeling, Word2Vec, PhraseBERT
+Statistical Analysis: Hypothesis Testing, Sampling, ANOVA, EDA, Feature Engineering, A/B Testing
+Programming: Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn), PySpark
+Cloud Technologies: AWS (SageMaker, Lambda, Redshift, Athena), Azure OpenAI, Docker
+Visualization: Tableau, Matplotlib, Dash
+
+Professional Experience
+Data Scientist
+AT&T, Dallas, TX | Jun 2024 - Present
+*
+Led the architecture, design, and implementation of a highly advanced chatbot leveraging Large Language Models
+(LLMs), enabling users to interact dynamically and intuitively while enhancing overall user engagement.
+*
+Deployed and managed AI pipelines using Amazon Bedrock, ensuring high scalability, seamless model updates, and
+integration with existing business processes.
+*
+Utilized LLaMA for advanced model adaptation and continuous learning from user interactions, significantly
+improving chatbot response relevance and accuracy over time.
+*
+Integrated Mistral AI for image recognition, allowing the chatbot to process visual inputs and provide contextually
+aware responses and intelligent recommendations.
+*
+Implemented Anthropic's Claude to enhance the governance and ethical management of AI systems, mitigating
+risks related to bias and ensuring fair interactions.
+*
+Explored and applied Azure OpenAI services to expand chatbot functionalities, enabling high-quality language
+understanding and generation capabilities.
+*
+Designed and automated pipelines for data preprocessing, model training, validation, and deployment using AWS
+SageMaker, ensuring efficient resource utilization and quick turnaround times.
+*
+Collaborated with cross-functional teams to establish AI-driven solutions, enhancing business operations and
+customer satisfaction.
+
+Environment: Python (Numpy, Pandas, Matplotlib), Azure OpenAI, AWS SageMaker, Amazon Bedrock, LLaMA, Mistral
+AI, Anthropic's Claude, Docker, Git
+
+Data Scientist
+Northwestern Mutual, Dallas, TX  | Jul 2022 - May 2024
+*
+Engineered predictive models for credit risk assessment and loan default prediction, leveraging algorithms such
+as XGBoost, Random Forests, and logistic regression, enabling improved risk management and optimized credit
+approval processes.
+*
+Developed state-of-the-art NLP solutions using advanced models like BERT, DistilBERT, and PhraseBERT to analyze
+customer feedback and resolve misclassification in automated responses for financial inquiries, enhancing
+customer experience.
+*
+Deployed SARIMA and LSTM models for forecasting financial trends such as cash flow, revenue growth, and
+expense projections, improving strategic planning and operational efficiency.
+*
+Extracted, cleaned, and analyzed large-scale financial datasets, including real-time market data from Twitter APIs,
+to derive actionable insights into market sentiment and public opinion on financial products and trends.
+*
+Designed and managed AI training datasets optimized for BERT and XLNet models to classify and prioritize high-
+value client inquiries, achieving increased model precision and recall.
+*
+Collaborated with cross-functional teams to align data science initiatives with financial goals, such as improving
+portfolio management and identifying high-value opportunities.
+*
+Created comprehensive dashboards and visualization tools using Tableau to track key financial performance
+indicators, risk metrics, and client engagement metrics, empowering stakeholders with actionable insights.
+*
+Integrated AWS tools like Lambda and SageMaker into the model development pipeline for secure deployment
+and real-time monitoring of ML solutions in financial applications.
+
+Environment: Python (Numpy, Pandas, Seaborn), AWS (Lambda, Athena, Redshift, SageMaker), SQL, Tableau, NLP
+(Transformers, SpaCy, BERT, XLNet, DistilBERT)
+
+Data Scientist | Value Labs, India| Nov 2020 - Jun 2022
+*
+Developed and implemented a hybrid BiLSTM-CNN model to map job descriptions to skill sets, improving
+recommendation accuracy and simplifying workforce planning for clients.
+*
+Applied Latent Dirichlet Allocation (LDA) for document classification, leveraging topic modeling to enhance
+categorization accuracy across large datasets.
+*
+Engineered advanced feature extraction techniques using Word Embeddings and Gaussian Mixture Models,
+enabling personalized skill recommendations.
+*
+Built Seq2Seq architectures to streamline skill suggestion systems, improving platform usability for end-users.
+*
+Deployed CNN-based autoencoders for text data representations, enhancing semantic relevance in text-matching
+applications.
+*
+Applied time series forecasting models to predict demand surges, reducing customer wait times and optimizing
+operational efficiency.
+*
+Automated the ingestion and normalization of datasets from diverse sources using Python and PySpark, ensuring
+data consistency and accuracy for downstream analysis.
+*
+Designed scalable solutions for data manipulation and visualization, providing actionable insights for internal and
+client stakeholders.
+
+Environment: Python (Scikit-learn, Numpy, Pandas, TensorFlow), PySpark, Hadoop, PostgreSQL, AWS
+
+Data Scientist | HSBC, India | Sep 2018 - Oct 2020
+*
+Tackled highly imbalanced datasets for fraud detection by implementing SMOTE, cost-sensitive algorithms, and
+advanced preprocessing techniques.
+*
+Improved loan default prediction accuracy through ensemble modeling with Ridge, Lasso, and XGBoost, achieving
+industry-leading performance metrics.
+*
+Performed extensive feature engineering, including feature interaction, normalization, and encoding, to enhance
+predictive model quality and interpretability.
+*
+Automated data pipelines and workflows using Spark, optimizing computational efficiency and reducing manual
+workload.
+*
+Designed Tableau dashboards to communicate critical insights to business users, supporting strategic decision-
+making processes.
+*
+Enhanced model performance evaluation with comprehensive metrics such as RMSE, MAE, ROC, and AUC, driving
+iterative improvements.
+*
+Integrated AWS Redshift for scalable data storage and analysis, ensuring the availability of large datasets for
+processing.
+*
+Worked cross-functionally with analytics teams to define KPIs and align project outcomes with business objectives.
+
+Environment: Python (Scikit-learn, Pandas), AWS Redshift, Spark, Tableau, XGBoost
+
+Education :
+Masters: University: The University of Texas at Arlington, Data Science Machine Learning NLP, Dallas, TX - 2024
+Bachelors:  University: University of Hyderabad, India - 2019"
+9,Arvind Kumar Reddy,"Arvind Kumar Reddy
+Data Scientist
+(272) 235-1189             arvind.k@jobtechsmail.com             LinkedIn
+
+Summary
+* Data Scientist with around 9 years of experience transforming complex datasets into actionable insights through advanced
+modeling techniques and statistical analysis, driving strategic decision-making across multiple business domains.
+* Skilled in developing end-to-end ML solutions utilizing Python, Pandas, and SQL, with expertise in implementing ETL pipelines,
+predictive algorithms, and time series forecasting to solve challenging business problems.
+* Proficient in translating technical findings into compelling visualizations through Power BI, Tableau and Excel, enabling stakeholders
+to understand complex data patterns and make informed business decisions.
+* Experienced in mentoring technical teams within Agile environments, standardizing analytical methodologies, and establishing data
+quality protocols that enhance operational efficiency and foster data-driven cultures.
+
+Skills
+
+Methodologies: SDLC, Agile, Waterfall
+Programming Languages: Python, R, SQL
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, NLTK, Hugging Face Transformers, XGBoost, LightGBM
+Databases & Big Data Technologies: Oracle, MySQL, MongoDB, SQL Server, Apache Spark, Hadoop, Databricks, Snowflake
+Data Engineering & Processing: Apache Airflow, Talend, SSIS, Alteryx, ETL Pipelines, Data Wrangling
+Data Modeling & schemas Design: Star Schema, Denormalized Schema
+Data Visualization Tools: Tableau, Power BI, Excel (Advanced), Matplotlib, Seaborn
+Cloud Platforms: Azure (Data Lake, Data Factory, Azure ML), AWS (EC2, S3, RedShift, SageMaker), GCP (BigQuery, Vertex AI, AutoML)
+MLOps & Deployment: MLflow, Kubeflow, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform
+Statistical & Machine Learning Techniques: A/B Testing, Hypothesis Testing, Exploratory Data Analysis (EDA), Time Series Analysis,
+Feature Engineering, Model Optimization, Hyperparameter Tuning, Supervised & Unsupervised Learning
+Machine Learning Algorithms: Random Forest, Decision Trees, Linear & Logistic Regression, SVM, XGBoost, Large Language Models
+(LLM), Deep Learning (CNN, RNN, Transformers)
+Version Control & DevOps: Git, GitHub, Jenkins
+Soft Skills: Stakeholder Engagement, Team Collaboration, Strong Communication, Problem-Solving, Attention to Detail
+
+Education
+Master of Science in Business Analytics | King's College, Pennsylvania
+May 2024
+Master of Business Administration (MBA) in Finance | Amity University, India
+September 2017
+Bachelor of Technology in Engineering | Shoolini University, India
+April 2015
+
+Work Experience
+Data Scientist | PNC, Pennsylvania
+January 2024 - Current
+* Leveraged Python, Pandas, and SQL to collect and clean financial data from multiple sources, building ETL pipelines with Apache
+Airflow that automated data preparation workflows and reduced processing time by 30%.
+* Engineered novel behavioral and contextual features for credit card transaction data, and optimized machine learning models
+(XGBoost, Random Forest) with resampling techniques (SMOTE, ADASYN) and cost-sensitive learning, reducing false positive fraud
+alerts while maintaining fraud detection rates.
+* Created interactive financial dashboards with Power BI that visualized model outputs and risk metrics in near real-time, enabling
+stakeholders to make data-driven decisions that reduced operational risks by 20%.
+* Participated in Agile development methodology, working in two-week sprints with cross-functional teams to translate technical
+findings into actionable insights and successfully integrate models into existing Oracle database systems.
+* Established monitoring procedures using Azure ML for deployed models ensuring regulatory compliance, while balancing model
+performance with interpretability requirements through A/B testing and version control with Git and GitHub.
+* Utilized Explainable AI (SHAP, LIME) to analyze model decisions and refine the fraud detection system, and strategically optimized
+classification thresholds, leading to a significant decrease in unnecessary customer alerts and improved customer satisfaction.
+Data Scientist | Sage Softtech, India
+September 2021 - December 2022
+* Analyzed sequential EHR data via Exploratory Data Analysis (EDA) to validate suitability for time-series forecasting, performing
+necessary preprocessing (e.g., scaling, imputation) to enable accurate patient deterioration prediction.
+* Designed, built, and tuned an LSTM network (RNN, Python/TensorFlow/Keras) predicting patient deterioration, minimizing
+prediction error (loss function like MSE/Cross-Entropy) and achieving a 25% reduction in intervention time
+via RMSE/MAE validation.
+* Developed a multi-class classification model (Python, Scikit-learn/XGBoost) using engineered EHR features to stratify patients
+into distinct readmission risk categories (High, Medium, Low), facilitating proactive post-discharge care.
+* Implemented MLOps automation using MLflow within Databricks on AWS for predictive model (e.g., patient readmission)
+retraining/validation pipelines, ensuring model reliability and contributing to reduced readmission rates.
+* Leveraged Databricks on AWS (PySpark) to integrate and analyze large-scale, mixed healthcare datasets, developing an anomaly
+detection system that flagged significant deviations in patient data (vitals, labs) for early clinical risk warning.
+* Applied Natural Language Processing (NLP) techniques (NLTK, Hugging Face Transformers) to analyze unstructured medical
+notes, extracting valuable clinical insights that improved diagnostic accuracy.
+* Utilized R and Python (Scikit-learn, Statsmodels) for complex statistical analyses identifying key factors influencing patient
+outcomes, thereby refining clinical decision-making and personalizing treatment plans.
+* Spearheaded predictive modeling projects within an Agile framework, driving data-driven insights that enhanced patient care
+through timely interventions.
+Lead Data Analyst | XL Dynamics Pvt Ltd, India
+January 2019 - August 2021
+* Led analysis portfolio optimization, evaluating 200+ reports against business objectives, eliminating redundancies and refocusing
+efforts on actionable insights, resulting in 55% cost reduction and 60% efficiency improvement.
+* Applied comprehensive data quality protocols, standardizing procedures and conducting root cause analysis of anomalies,
+increasing data trust and enabling analysts to focus on high-value analytical tasks.
+* Designed SQL-based data extraction frameworks and standardized analysis methodologies, creating reusable templates that
+reduced report creation time while maintaining consistency across analytical outputs.
+* Built predictive loan segmentation model using statistical clustering techniques to categorize financial products by risk factors,
+reducing high-risk loan misclassification.
+* Created automated dashboard solutions integrating multiple data sources, providing real-time business performance metrics that
+supported executive decision-making and identified cost-saving opportunities.
+* Established structured training curriculum for data analysts covering SQL, analytical techniques, and visualization best practices,
+mentoring 35+ team members and reducing onboarding time.
+Data Analyst | XL Dynamics Pvt Ltd, India
+May 2015 - December 2018
+* Developed 25-30 critical business reports using Python, data modeling, and BI tools to provide insights on revenue trends and
+customer behavior, driving data-informed decisions.
+* Analyzed operational processes to identify bottlenecks, improving loan closing efficiency by 15% and determining profitable regions
+for optimized resource allocation.
+* Extracted and analyzed loan data from SunSoft LOS and operational databases using advanced SQL techniques to uncover key
+market trends.
+* Designed impactful visualizations in Excel and Tableau to effectively communicate findings to stakeholders, enhancing
+understanding of loan performance metrics.
+* Executed comprehensive data quality checks and validation processes to ensure accuracy, consistency, and reliability of datasets,
+establishing a strong foundation for trusted analytics.
+* Collaborated with senior analysts to enhance skills in advanced data analysis techniques, visualization strategies, and mortgage
+industry knowledge.
+
+Certifications
+
+* Databricks Certified Machine Learning Professional
+* Machine Learning Fundamentals Micro-Credential by Alteryx
+* Alteryx Designer Core Micro-Credential: General Knowledge by Alteryx
+* Career Essentials in Data Analysis by Microsoft and LinkedIn
+* AWS Certified Planning a Machine Learning Project
+* Lean Six Sigma Foundations by LinkedIn"
+10,Carlos Mendoza,"Carlos Mendoza
+Senior AI/ML Engineer
+Email: carlos.mendoza8899@gmail.com
+Location: Jacksonville, FL 32218
+LinkedIn: www.linkedin.com/in/carlos-mendoza-zavala-90101322a
+1050
+-
+(385) 355
+Contact:
+
+Summary
+Innovative AI/ML Engineer with 8+ years of hands-on experience driving impactful machine learning
+and artificial intelligence solutions across healthcare, biotechnology, and cloud services industries.
+Expertise in developing scalable AI models for predictive analytics, computer vision, and natural
+language processing (NLP), with a proven track record of optimizing critical systems and improving
+business outcomes. Proficient in leveraging cloud platforms (AWS) to build and deploy production-
+ready ML pipelines, transforming complex challenges into high-performing, data-driven solutions.
+Adept at working with cross-functional teams to deliver cutting-edge AI strategies that align with
+organizational goals and fuel innovation.
+Key Skills
+Machine Learning & AI: Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision,
+Reinforcement Learning
+Programming Languages: Python, R, Java, C++
+ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, OpenCV
+Data Processing: Pandas, NumPy, Dask, Spark
+Cloud & Big Data: AWS (SageMaker, EC2, S3), Google Cloud, Azure, Hadoop
+Model Deployment: Docker, Kubernetes, Flask, FastAPI, TensorFlow Serving
+DevOps/CI-CD Tools: Jenkins, Git, MLflow, Airflow, Kubernetes
+Data Engineering: SQL, MongoDB, Apache Spark, Kafka
+Agile/DevOps Practices: Scrum, Kanban, CI/CD Pipelines
+Professional Experience
+AI/ML Engineer
+SnapCare - [Remote | Atlanta, GA]
+04/2021 - Present
+Led the development and deployment of AI-driven predictive models for a healthcare platform,
+increasing the accuracy of patient outcome forecasting by 25%, leveraging XGBoost, Neural Networks,
+and time-series data analysis.
+Developed NLP pipelines for extracting and analyzing critical data from unstructured medical records,
+improving data analysis efficiency by 30% and enabling faster decision-making for healthcare
+professionals.
+Designed and implemented an AI-driven chatbot using Python, TensorFlow, and Dialogflow, improving
+customer engagement and support efficiency.
+Spearheaded the implementation of an anomaly detection system to identify and flag irregular patient
+data and treatment outcomes, significantly reducing errors in diagnosis and treatment planning.
+Collaborated closely with healthcare providers and data engineers to ensure the AI models aligned
+with medical compliance standards, improving HIPAA compliance and data security.
+Designed end-to-end AI/ML pipelines for real-time data processing and model deployment in AWS
+SageMaker and Lambda, reducing operational costs by 20% while maintaining 99.9% system uptime.
+Led the integration of a computer vision system to analyze and classify medical images, increasing
+diagnostic accuracy by 18% and reducing manual review times.
+Senior Machine Learning Engineer
+Genmab - [Remote | Princeton, NJ]
+03/2019 - 03/2021
+Spearheaded the development of AI/ML models to support biotech research and clinical trials at
+Genmab, a leading biotechnology and healthcare company.
+Applied deep learning techniques for genomic data analysis, increasing drug discovery success rates by
+35% through optimized candidate selection processes.
+Designed and deployed a computer vision system using CNNs for cancer detection from medical
+images, improving diagnostic accuracy by 20%.
+Collaborated with bioinformatics teams to ensure machine learning models aligned with FDA
+regulations and internal compliance standards, accelerating clinical trial insights.
+Machine Learning Engineer
+Amazon Web Services (AWS) - [Remote | Austin, TX]
+11/2017 - 02/2019
+Worked on the development of high-performance AI/ML models for AWS, contributing to core
+products like AWS Lex, AWS Rekognition, and AWS Transcribe.
+Developed and optimized AI pipelines in AWS SageMaker, improving model training efficiency for AWS
+customers by 30% and leading to increased adoption of AWS AI-powered services.
+Deployed scalable machine learning solutions using AWS Lambda, Docker, and Kubernetes, ensuring
+seamless scaling and efficient resource utilization.
+Improved natural language processing (NLP) models for AWS Comprehend, resulting in more accurate
+voice-to-text conversions and better text analysis for enterprise customers.
+Data Scientist
+OpynHealth - [San Francisco, CA]
+01/2015 - 10/2017
+Developed AI-powered predictive models for OpynHealth, a healthcare technology company, to
+forecast patient readmission risks, improving prediction accuracy by 20%.
+Built an automated machine learning pipeline for analyzing electronic health records (EHRs), increasing
+data processing efficiency by 25%, which streamlined healthcare workflows.
+Created a personalized healthcare recommendation engine using machine learning algorithms,
+optimizing patient treatment plans and reducing the cost of care by 15%.
+Ensured strict HIPAA compliance while working with sensitive healthcare data and deploying models in
+production environments.
+Education
+Jacksonville University
+B.S. Computer Science, 2014"

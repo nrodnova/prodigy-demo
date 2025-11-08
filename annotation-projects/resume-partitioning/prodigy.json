@@ -1,0 +1,26 @@
+{
+  "feed_overlap":true,
+  "force_stream_order":true,
+  "annotations_per_task":null,
+  "show_flag":true,
+  "allow_newline_highlight":true,
+  "custom_theme":{
+    "cardMaxWidth":"90%",
+    "cardTextAlign": "left",
+    "labels" : {
+        "EXPERIENCE": "#ffb3b3",
+        "EDUCATION": "#ffd9b3",
+        "SKILLS": "#ffe6b3",
+        "PERSONAL_INFO": "#d6f5d6",
+        "SUMMARY": "#b3e0ff",
+        "CERTIFICATIONS": "#c2c2f0",
+        "PROJECTS": "#ffccf2",
+        "AWARDS": "#e6b3cc",
+        "PUBLICATIONS": "#cccccc",
+        "LANGUAGES": "#b3d9ff",
+        "OTHER": "#f2f2f2"
+      }
+  },
+  "instructions" : "annotation-guidelines.html",
+  "total_examples_target" : 10
+}
