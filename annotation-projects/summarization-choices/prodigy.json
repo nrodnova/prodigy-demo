@@ -1,0 +1,13 @@
+{
+  "feed_overlap":true,
+  "force_stream_order":true,
+  "annotations_per_task":null,
+  "show_flag":true,
+  "allow_newline_highlight":true,
+  "custom_theme":{
+    "cardMaxWidth":"70%",
+    "cardTextAlign": "left"
+  },
+  "global_css" : ".header {background-color: rgb(88, 63, 207); color: white; font-weight: 600; font-size: 1.1em; padding: 8px;}.prodigy-content {text-align: left !important;}",
+  "total_examples_target" : 3579
+}
