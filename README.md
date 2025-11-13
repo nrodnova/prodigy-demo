@@ -6,7 +6,9 @@
 
 Get Prodigy license # and save it in a secret `PRODIGY_LICENSE`
 
-To check installation, type in terminal window:
+After that, open the code space.
+
+To check installation, type in the terminal window:
 
 ```
 prodigy stats
